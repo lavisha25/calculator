@@ -1,0 +1,29 @@
+#div1{
+    height: 500px;
+    width: 300px;
+    border: 2px black solid;
+}
+.div2{
+    width: 300px;
+    height: 70px;
+    border: 1px black solid;
+}
+#b1{
+    margin: 30px;
+
+}
+.b2{
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+}
+.b3{
+    margin-left: 40px;
+    width: 40px;
+    height: 40px;
+}
+#display{
+    width: 291px;
+    height: 63px;
+    font-size: 40px;
+}
